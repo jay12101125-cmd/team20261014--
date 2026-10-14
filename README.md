@@ -3,4 +3,4 @@
 -hank: index.html
 -jimbo: style.css
 -gary: script.js
--hank: README.md
+-Hank: README.md
